@@ -58,13 +58,10 @@ export const featuredCards = [
 export const categories = [
   { title: "All", category: "All" },
   { title: "Hotels", category: "Hotel" },
-  { title: "Condos", category: "Condo" },
-  { title: "Duplexes", category: "Duplex" },
+  { title: "Townhomes", category: "Townhouse" },
   { title: "Studios", category: "Studio" },
   { title: "Villas", category: "Villa" },
   { title: "Apartments", category: "Apartment" },
-  { title: "Townhomes", category: "Townhouse" },
-  { title: "Others", category: "Other" },
 ];
 
 export const settings = [

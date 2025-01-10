@@ -17,8 +17,6 @@ const COLLECTIONS = {
 const propertyTypes = [
   "Hotel",
   "Townhouse",
-  "Condo",
-  "Duplex",
   "Studio",
   "Villa",
   "Apartment",
